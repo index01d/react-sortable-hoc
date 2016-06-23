@@ -23,7 +23,7 @@ Installation
 
 Using [npm](https://www.npmjs.com/package/react-sortable-hoc):
 
-	$ npm install react-sortable-hoc --save
+	$ npm install @naturalatlas/react-sortable-hoc --save
 
 
 Then, using a module bundler that supports either CommonJS or ES2015 modules, such as [webpack](https://github.com/webpack/webpack):
